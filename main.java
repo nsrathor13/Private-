@@ -1,11 +1,5 @@
 public  class main {
-	
-
-
-
 public static void main(String [] args ){
-	System.out.println("Hello Nirender");
-	
 
-}
-}
+System.out.println("Hello Nirender");
+	}}
